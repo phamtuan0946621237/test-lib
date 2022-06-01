@@ -3,6 +3,6 @@
 // }
 import React from 'react'
 import {Text} from 'react-native'
-export const __ = () => {
-  return <Text>jejeje</Text>
+export const aaaaa = () => {
+  return 3
 }
