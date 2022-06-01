@@ -3,6 +3,7 @@
 // }
 import React from 'react'
 import {Text} from 'react-native'
+const Label : any = Text
 export const aaaaa = () => {
-  return <Text style={{color : 'red',width : 100,height : 100,backgroundColor : 'green'}}>heheheheh</Text>
+  return <Label style={{color : 'red',width : 100,height : 100,backgroundColor : 'green'}}>heheheheh</Label>
 }
